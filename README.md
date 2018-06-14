@@ -1,4 +1,4 @@
-## Robot simulation
+# Robot simulation
 ---
 
 Robot simulation is an application that allows to control multiple mobile robots
