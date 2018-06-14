@@ -1,0 +1,4 @@
+*.o
+robot_scena
+*.dat
+*.gch
