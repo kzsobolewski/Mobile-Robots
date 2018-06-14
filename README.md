@@ -16,7 +16,7 @@ It works only on GNU/Linux distributions.
 ---
 
 ## Screenshots
-![](images/terminal-robot.png)
-![](images/gnuplot-robot.png)
+<img src = "images/terminal-robot.png" width="550">
+<img src = "images/gnuplot-robot.png" width="550">
 
 
