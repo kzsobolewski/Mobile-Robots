@@ -1,5 +1,4 @@
 # Robot simulation
----
 
 Robot simulation is an application that allows to control multiple mobile robots
 on a board plotted in GNUPlot. You can add robots, obstacles and detect collision
@@ -16,7 +15,7 @@ It works only on GNU/Linux distributions.
 
 ---
 
-`screenshots`
+## Screenshots
 ![](images/terminal-robot.png)
 ![](images/gnuplot-robot.png)
 
